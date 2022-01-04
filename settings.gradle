@@ -1,0 +1,2 @@
+rootProject.name = "Fidelity Code Challenge"
+include ':app'
